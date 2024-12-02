@@ -1,0 +1,7 @@
+C:\Users\yusuf\OneDrive\Desktop\2.sınıf ders notları\Lab_Dersleri\hafta10.örnek1\bin\Debug\hafta10.örnek1.exe.config
+C:\Users\yusuf\OneDrive\Desktop\2.sınıf ders notları\Lab_Dersleri\hafta10.örnek1\bin\Debug\hafta10.örnek1.exe
+C:\Users\yusuf\OneDrive\Desktop\2.sınıf ders notları\Lab_Dersleri\hafta10.örnek1\bin\Debug\hafta10.örnek1.pdb
+C:\Users\yusuf\OneDrive\Desktop\2.sınıf ders notları\Lab_Dersleri\hafta10.örnek1\obj\Debug\hafta10.örnek1.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Desktop\2.sınıf ders notları\Lab_Dersleri\hafta10.örnek1\obj\Debug\hafta10.örnek1.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Desktop\2.sınıf ders notları\Lab_Dersleri\hafta10.örnek1\obj\Debug\hafta10.örnek1.exe
+C:\Users\yusuf\OneDrive\Desktop\2.sınıf ders notları\Lab_Dersleri\hafta10.örnek1\obj\Debug\hafta10.örnek1.pdb
